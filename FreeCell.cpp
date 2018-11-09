@@ -33,6 +33,7 @@ exit(1);
         int *tableau=new int;
         tableau=&(*random);
 
+    
     int tableau_counter[]={0,7,14,21,28,34,40,46,52};  // count no of cards in each column
         cout<<"\t\t********THIS IS FREE CELL GAME********\n\n";
         cout<<"Press 1 to start a game\n";
