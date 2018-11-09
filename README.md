@@ -1,2 +1,2 @@
-# FreeCell-Game-C-
+# FreeCell-Game-CPP
 FreeCell Game Developed in Cpp
